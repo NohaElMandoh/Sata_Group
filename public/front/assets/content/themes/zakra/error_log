@@ -1,0 +1,5 @@
+[15-Jun-2022 22:17:46 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #1 ($callback) must be a valid callback or null, function "create_function" not found or invalid function name in /home/satatechnology/public_html/wp-content/themes/zakra/image.php:90
+Stack trace:
+#0 /home/satatechnology/public_html/wp-content/themes/zakra/image.php(90): array_map()
+#1 {main}
+  thrown in /home/satatechnology/public_html/wp-content/themes/zakra/image.php on line 90
